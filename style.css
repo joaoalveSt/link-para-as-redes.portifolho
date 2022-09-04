@@ -14,6 +14,8 @@
   }
   a{
     text-decoration: none;
+   
+
   }
   body{
     background: var(--bg-color);
@@ -81,4 +83,9 @@
   }
   footer a{
     color: var(--text-color);
+  }
+  .insta__{
+    color: #FAEAD8;
+    font-family: 'Roboto Mono', monospace;
+
   }
